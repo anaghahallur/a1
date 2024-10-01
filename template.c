@@ -10,5 +10,8 @@ int main()
   printf("Subtraction");
 }
   mul();
+{
+	printf("Multiplication");
+}
   div();
 }
