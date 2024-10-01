@@ -6,6 +6,9 @@ int main()
   printf("Addition");
 }
   sub();
+{
+  printf("Subtraction");
+}
   mul();
   div();
 }
